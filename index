@@ -3,3 +3,9 @@ A: Change key map https://github.com/Wan-ZL/my-Atom-Keymap
 
 Q: Chrome or Chromium on linux disabled video hardware decoding
 A: install chrome extention "h264ify"
+
+Q: USB恢复分区
+A: use software "DiskGenius"
+
+Q: USB iso installation for Manjaro
+A: "Win32 Disk Imager
