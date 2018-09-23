@@ -9,3 +9,6 @@ A: use software "DiskGenius"
 
 Q: USB iso installation for Manjaro
 A: "Win32 Disk Imager
+
+Q: No xinput
+A: install "xorg-xinput" package
