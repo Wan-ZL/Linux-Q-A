@@ -1,2 +1,3 @@
 Q: touchpad locked in scroll mode
 Try1: uninstall 'xf86-input-elographic'
+Try2: uninstall 'xf86-input-libinput'
