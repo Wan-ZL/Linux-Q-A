@@ -12,3 +12,7 @@ A: "Win32 Disk Imager
 
 Q: No xinput
 A: install "xorg-xinput" package
+
+Q: touchpad locked in scroll mode
+A: remove psmouse: "sudo modprobe -r psmouse"
+Extra: install psmouse: "sudo modprobe psmouse"
