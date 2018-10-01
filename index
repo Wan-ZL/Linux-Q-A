@@ -16,3 +16,6 @@ A: install "xorg-xinput" package
 Q: touchpad locked in scroll mode
 A: remove psmouse: "sudo modprobe -r psmouse"
 Extra: install psmouse: "sudo modprobe psmouse"
+
+Q: fcitx doesn't work
+A: create ~/.xprofile and add 'export XMODIFIERS=@im=fcitx'
