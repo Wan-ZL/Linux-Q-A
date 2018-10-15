@@ -3,3 +3,4 @@ Try1: uninstall 'xf86-input-elographic'
 Try2: uninstall 'xf86-input-libinput'
 Tyr3: set blacklist for psmouse: /etc/modprobe.d/psmouse.conf
 Try4: change libinput config setting
+Tyr5: set blacklist for i2c_hid: /etc/modprobe.d/nobeep.conf
