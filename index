@@ -19,3 +19,6 @@ Extra: install psmouse: "sudo modprobe psmouse"
 
 Q: fcitx doesn't work
 A: create ~/.xprofile and add 'export XMODIFIERS=@im=fcitx'
+
+Q: 插耳机底噪
+A: "https://wiki.archlinux.org/index.php/Dell_XPS_13_(9360)#Freezing_after_waking_from_suspend"
