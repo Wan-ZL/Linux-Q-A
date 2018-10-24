@@ -22,3 +22,6 @@ A: create ~/.xprofile and add 'export XMODIFIERS=@im=fcitx'
 
 Q: 插耳机底噪
 A: "https://wiki.archlinux.org/index.php/Dell_XPS_13_(9360)#Freezing_after_waking_from_suspend"
+
+Q: touchpad change to two fingers right click
+A: put 30-touchpad.conf file to "/etc/X11/xorg.conf.d/30-touchpad.conf"
