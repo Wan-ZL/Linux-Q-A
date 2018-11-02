@@ -25,3 +25,6 @@ A: "https://wiki.archlinux.org/index.php/Dell_XPS_13_(9360)#Freezing_after_wakin
 
 Q: touchpad change to two fingers right click
 A: put 30-touchpad.conf file to "/etc/X11/xorg.conf.d/30-touchpad.conf"
+
+Q: set up libinput-gesture:
+A: install libinput-gesture, type "sudo gpasswd -a $USER input" give permission, then reboot, then set custom config, then run "libinput-gestures-setup autostart" to set auto start
