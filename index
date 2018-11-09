@@ -28,3 +28,9 @@ A: put 30-touchpad.conf file to "/etc/X11/xorg.conf.d/30-touchpad.conf"
 
 Q: set up libinput-gesture:
 A: install libinput-gesture, type "sudo gpasswd -a $USER input" give permission, then reboot, then set custom config, then run "libinput-gestures-setup autostart" to set auto start
+
+Q: disable right click area for synaptics touchpad driver
+A:  synclient RightButtonAreaLeft=0
+    synclient RightButtonAreaTop=0
+    // RightButtonAreaLeft was 608
+    // RightButtonAreaTop was 557
