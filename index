@@ -37,7 +37,4 @@ A:  synclient RightButtonAreaLeft=0
     // RightButtonAreaTop was 557
     
 Q: change DNS server
-A: "https://wiki.manjaro.org/index.php?title=Set_DNS_or_Nameservers"
-
-Q: 关闭Chrome网址推荐
-A: 关闭设置“使用网络服务帮助解决导航错误”
+A: 网络设置中添加DNS服务器，然后方式改成“自动（仅网络地址）”
