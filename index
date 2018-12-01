@@ -35,3 +35,6 @@ A:  synclient RightButtonAreaLeft=0
     synclient RightButtonAreaTop=0
     // RightButtonAreaLeft was 608
     // RightButtonAreaTop was 557
+    
+Q: change DNS server
+A: "https://wiki.manjaro.org/index.php?title=Set_DNS_or_Nameservers"
