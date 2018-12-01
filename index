@@ -38,3 +38,6 @@ A:  synclient RightButtonAreaLeft=0
     
 Q: change DNS server
 A: "https://wiki.manjaro.org/index.php?title=Set_DNS_or_Nameservers"
+
+Q: 关闭Chrome网址推荐
+A: 关闭设置“使用网络服务帮助解决导航错误”
